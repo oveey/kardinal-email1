@@ -1,2 +1,2 @@
-# kardinal-email1
+# kardinal-email
 Created a responsive email with inline-styling (no media queries)
